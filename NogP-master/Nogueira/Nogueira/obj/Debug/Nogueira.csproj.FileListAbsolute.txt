@@ -1,0 +1,9 @@
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\bin\Debug\Nogueira.exe.config
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\bin\Debug\Nogueira.exe
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\bin\Debug\Nogueira.pdb
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.csprojResolveAssemblyReference.cache
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.Form1.resources
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.Properties.Resources.resources
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.csproj.GenerateResource.Cache
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.exe
+C:\Users\CESAR\Desktop\CODE\NogP-master\Nogueira\Nogueira\obj\Debug\Nogueira.pdb
